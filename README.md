@@ -1,8 +1,8 @@
 # AI Assignment 2
 
-This workspace includes:
+This project contains the following MCP components:
 
-- `src/mcp-server` — a simple Express-based MCP-style server with health and context endpoints.
+- `src/mcp-server` — local MCP server implementation
 - `src/playwright` — a local Playwright app server serving a demo page and an API endpoint.
 - `tests/playwright` — Playwright tests that validate the demo app.
 
